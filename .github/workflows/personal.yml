@@ -42,9 +42,12 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_music: no
+          plugin_music: yes
           plugin_music_limit: 4
-          plugin_music_user: .user.login
+          plugin_music_user: Avish
+          plugin_music_provider: lastfm
+          plugin_music_token: "7f6042d0fb6ff8fe3503ee3c1bc47c8c"
+          plugin_music_mode: recent
           plugin_traffic: yes
           plugin_tweets: yes
           plugin_tweets_limit: 2
