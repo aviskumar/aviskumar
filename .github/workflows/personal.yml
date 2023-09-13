@@ -44,7 +44,7 @@ jobs:
           plugin_lines: yes
           plugin_music: yes
           plugin_music_limit: 4
-          plugin_music_user: Avish
+          plugin_music_user: Avish_K
           plugin_music_provider: lastfm
           plugin_music_token: "7f6042d0fb6ff8fe3503ee3c1bc47c8c"
           plugin_music_mode: recent
